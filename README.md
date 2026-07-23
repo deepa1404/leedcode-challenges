@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
