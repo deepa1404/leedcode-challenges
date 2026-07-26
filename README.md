@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
