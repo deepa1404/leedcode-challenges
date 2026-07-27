@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepa1404/leedcode-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
