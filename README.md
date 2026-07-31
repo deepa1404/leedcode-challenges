@@ -29,6 +29,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepa1404/leedcode-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/deepa1404/leedcode-challenges/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 ## Greedy
 |  |
