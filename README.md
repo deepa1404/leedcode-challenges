@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepa1404/leedcode-challenges/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 ## Linked List
