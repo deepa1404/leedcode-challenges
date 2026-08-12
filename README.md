@@ -25,6 +25,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepa1404/leedcode-challenges/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 ## Linked List
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0136-single-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
