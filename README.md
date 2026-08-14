@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/deepa1404/leedcode-challenges/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/deepa1404/leedcode-challenges/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/deepa1404/leedcode-challenges/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
