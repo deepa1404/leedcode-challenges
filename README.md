@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepa1404/leedcode-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/deepa1404/leedcode-challenges/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
@@ -112,4 +114,20 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/deepa1404/leedcode-challenges/tree/master/0046-permutations) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
