@@ -79,10 +79,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
