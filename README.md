@@ -155,4 +155,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/deepa1404/leedcode-challenges/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
