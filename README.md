@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/deepa1404/leedcode-challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/deepa1404/leedcode-challenges/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0088-merge-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/deepa1404/leedcode-challenges/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -77,6 +80,7 @@
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +98,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/deepa1404/leedcode-challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Sliding Window
@@ -113,6 +118,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
