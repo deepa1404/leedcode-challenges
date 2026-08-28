@@ -88,6 +88,7 @@
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/deepa1404/leedcode-challenges/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
