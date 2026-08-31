@@ -47,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -100,12 +101,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
