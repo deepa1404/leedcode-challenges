@@ -175,11 +175,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -190,6 +192,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0101-symmetric-tree) |
 ## Database
@@ -207,5 +210,6 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
