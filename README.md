@@ -72,6 +72,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/deepa1404/leedcode-challenges/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
@@ -142,6 +144,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
@@ -209,6 +212,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 ## Stack
 |  |
