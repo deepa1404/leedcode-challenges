@@ -98,6 +98,7 @@
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
 ## Linked List
 |  |
 | ------- |
@@ -220,4 +221,24 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepa1404/leedcode-challenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
