@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## String
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
