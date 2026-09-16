@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
@@ -37,11 +38,13 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,4 +267,24 @@
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
