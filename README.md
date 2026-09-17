@@ -66,6 +66,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0206-reverse-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -292,4 +295,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
