@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
@@ -117,6 +118,7 @@
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -241,6 +243,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
