@@ -65,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
@@ -114,6 +115,7 @@
 | [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/deepa1404/leedcode-challenges/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0202-happy-number) |
@@ -306,5 +308,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
