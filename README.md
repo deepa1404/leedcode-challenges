@@ -27,6 +27,7 @@
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -62,6 +63,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## String
