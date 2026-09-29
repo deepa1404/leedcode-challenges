@@ -73,6 +73,7 @@
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -280,6 +284,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
