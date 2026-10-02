@@ -29,6 +29,7 @@
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -161,6 +163,7 @@
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -322,4 +325,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
