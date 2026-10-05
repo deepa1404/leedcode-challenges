@@ -27,6 +27,7 @@
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -64,6 +65,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
+| [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -189,6 +191,7 @@
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Newton's Method
 |  |
@@ -263,6 +266,7 @@
 | [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -329,4 +333,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
