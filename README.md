@@ -29,6 +29,7 @@
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
@@ -134,6 +135,7 @@
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
 ## Linked List
 |  |
