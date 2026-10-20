@@ -107,6 +107,7 @@
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
@@ -167,6 +168,7 @@
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
@@ -310,6 +312,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
 ## Binary Indexed Tree
@@ -345,4 +348,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
