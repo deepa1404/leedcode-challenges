@@ -32,6 +32,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -141,6 +142,7 @@
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Sliding Window
@@ -314,6 +317,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
 ## Binary Indexed Tree
 |  |
