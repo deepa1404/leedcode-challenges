@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
@@ -90,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/deepa1404/leedcode-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
