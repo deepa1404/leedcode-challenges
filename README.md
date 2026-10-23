@@ -144,6 +144,7 @@
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/deepa1404/leedcode-challenges/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
