@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/deepa1404/leedcode-challenges/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/deepa1404/leedcode-challenges/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/deepa1404/leedcode-challenges/tree/master/0069-sqrtx) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/deepa1404/leedcode-challenges/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/deepa1404/leedcode-challenges/tree/master/0234-palindrome-linked-list) |
