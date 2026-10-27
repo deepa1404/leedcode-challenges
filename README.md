@@ -77,6 +77,7 @@
 | [0070-climbing-stairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
@@ -107,6 +108,7 @@
 | [0058-length-of-last-word](https://github.com/deepa1404/leedcode-challenges/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deepa1404/leedcode-challenges/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0344-reverse-string) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/deepa1404/leedcode-challenges/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
