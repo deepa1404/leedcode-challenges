@@ -26,6 +26,7 @@
 | [0414-third-maximum-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/deepa1404/leedcode-challenges/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
@@ -94,6 +95,7 @@
 | [0389-find-the-difference](https://github.com/deepa1404/leedcode-challenges/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/deepa1404/leedcode-challenges/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/deepa1404/leedcode-challenges/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -145,6 +147,7 @@
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
