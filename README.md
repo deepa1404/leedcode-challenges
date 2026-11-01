@@ -79,6 +79,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepa1404/leedcode-challenges/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
@@ -143,6 +144,7 @@
 | [0231-power-of-two](https://github.com/deepa1404/leedcode-challenges/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
@@ -266,6 +268,7 @@
 | [0101-symmetric-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepa1404/leedcode-challenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepa1404/leedcode-challenges/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,4 +371,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
