@@ -84,6 +84,7 @@
 | [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/deepa1404/leedcode-challenges/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/deepa1404/leedcode-challenges/tree/master/1086-divisor-game) |
@@ -154,6 +155,7 @@
 | [0268-missing-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/deepa1404/leedcode-challenges/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/deepa1404/leedcode-challenges/tree/master/0292-nim-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0507-perfect-number) |
@@ -237,6 +239,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/deepa1404/leedcode-challenges/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
 | ------- |
