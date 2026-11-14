@@ -120,6 +120,7 @@
 | [0131-palindrome-partitioning](https://github.com/deepa1404/leedcode-challenges/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/deepa1404/leedcode-challenges/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deepa1404/leedcode-challenges/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0345-reverse-vowels-of-a-string) |
@@ -189,6 +190,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepa1404/leedcode-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/deepa1404/leedcode-challenges/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/deepa1404/leedcode-challenges/tree/master/0242-valid-anagram) |
