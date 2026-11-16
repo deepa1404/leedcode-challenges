@@ -131,6 +131,7 @@
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/deepa1404/leedcode-challenges/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/deepa1404/leedcode-challenges/tree/master/0917-reverse-only-letters) |
 ## Greedy
@@ -161,6 +162,7 @@
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0507-perfect-number) |
+| [0537-complex-number-multiplication](https://github.com/deepa1404/leedcode-challenges/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deepa1404/leedcode-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/deepa1404/leedcode-challenges/tree/master/1031-add-to-array-form-of-integer) |
@@ -309,6 +311,7 @@
 | [0258-add-digits](https://github.com/deepa1404/leedcode-challenges/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/deepa1404/leedcode-challenges/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/deepa1404/leedcode-challenges/tree/master/0537-complex-number-multiplication) |
 | [0861-flipping-an-image](https://github.com/deepa1404/leedcode-challenges/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
