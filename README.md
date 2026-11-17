@@ -134,12 +134,14 @@
 | [0537-complex-number-multiplication](https://github.com/deepa1404/leedcode-challenges/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/deepa1404/leedcode-challenges/tree/master/0917-reverse-only-letters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/deepa1404/leedcode-challenges/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/deepa1404/leedcode-challenges/tree/master/0409-longest-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepa1404/leedcode-challenges/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
