@@ -38,6 +38,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/deepa1404/leedcode-challenges/tree/master/3467-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -108,6 +109,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/deepa1404/leedcode-challenges/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3467-transform-array-by-parity](https://github.com/deepa1404/leedcode-challenges/tree/master/3467-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -356,6 +358,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/deepa1404/leedcode-challenges/tree/master/3467-transform-array-by-parity) |
 ## Binary Indexed Tree
 |  |
 | ------- |
