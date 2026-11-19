@@ -38,6 +38,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/deepa1404/leedcode-challenges/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/deepa1404/leedcode-challenges/tree/master/3467-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Binary Search
@@ -137,6 +138,7 @@
 | [0541-reverse-string-ii](https://github.com/deepa1404/leedcode-challenges/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/deepa1404/leedcode-challenges/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/deepa1404/leedcode-challenges/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/deepa1404/leedcode-challenges/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deepa1404/leedcode-challenges/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/deepa1404/leedcode-challenges/tree/master/2053-kth-distinct-string-in-an-array) |
 | [4107-find-missing-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/4107-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -358,6 +361,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deepa1404/leedcode-challenges/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/deepa1404/leedcode-challenges/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/deepa1404/leedcode-challenges/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/deepa1404/leedcode-challenges/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/deepa1404/leedcode-challenges/tree/master/3467-transform-array-by-parity) |
 ## Binary Indexed Tree
 |  |
